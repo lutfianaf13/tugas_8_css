@@ -1,0 +1,31 @@
+body{
+	background-image: url("senja.jpg");
+	background-size: cover;
+}
+
+div.satu{
+	overflow: scroll;
+	width: 850px;
+	height: 400px;
+	background-image: url("avocado.jpg");
+	background-color: white;
+	background-repeat: repeat-y;
+	background-position: left top;
+}
+
+p{
+	font-weight: bold;
+	color: blue;
+	font-size: 21px;
+	text-align: center;
+}
+
+p.dua{
+	color: green;
+	text-align: left;
+}
+
+p.tiga{
+	color: red;
+	text-align: right;
+}
